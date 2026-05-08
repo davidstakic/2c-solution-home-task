@@ -104,3 +104,6 @@ mutation {
 - Dobavljanje liste svih korisnika
 - Filtriranje korisnika po imenu i email adresi
 - Brisanje postojećeg korisnika
+
+## Video demonstracija
+https://youtu.be/ddzXwEIuUcM
